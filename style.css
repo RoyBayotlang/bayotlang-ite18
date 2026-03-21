@@ -58,7 +58,7 @@ ul {
 .box {
   width: 80px;
   height: 80px;
-  background-color: skyblue;
+  background-color: lightblue;
   display: flex;
   justify-content: center;
   align-items: center;
